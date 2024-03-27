@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavitraaSingh
 - 👀 I’m interested in pretty much everything ,but mostly coding over here.  
-- 🌱 I’m currently learning data structures , webdev , and the most exhausting maths concepts .
--  Huhhh ! i know so much in the bucket., but where there is a will there is a way.
+- 🌱 I’m currently learning data structures , webdev , and preparing for an entrance exam.
+-  Huhhh ! i know so much in the bucket, but where there is a will there is a way;)
 -  
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me tbrough my email i.e, pavitras384@gmail.com 
